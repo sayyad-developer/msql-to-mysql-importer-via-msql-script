@@ -1,0 +1,18 @@
+# Database dumps and backups
+*.sql
+*.bak
+*.zip
+*.gz
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
